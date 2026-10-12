@@ -8,7 +8,7 @@ import (
 // Add returns the sum of a and b.
 // This fixture intentionally contains a defect for the first pilot Issue.
 func Add(a, b int) int {
-	return a - b
+	return a + b
 }
 
 // Multiply returns the product of a and b.
